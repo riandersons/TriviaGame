@@ -18,7 +18,7 @@ $(document).ready(function () {
         question: "What river flows and fills Tempe Town Lake?",
         answer: ["Gila", "Salt", "Black", "Verde"],
         correct: "1",
-        image: ("assets/images/tempeTownLake.jpg")
+        image: ("assets/images/TempeTownLake.jpg")
     }, {
         question: "What river dug out the Grand Canyon?",
         answer: ["Colorado", "Verde", "White", "Black"],
